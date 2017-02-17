@@ -1,0 +1,184 @@
+body {
+    background: url('../image/35.jpg');
+}
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: monospace;
+    color: white;
+}
+
+h2 {
+    
+    font-family: monospace;
+    font-size: 1.5em;
+    color: white
+}
+
+.workSpace {
+    border-radius: 4000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 280px;
+    width: 280px;
+    border-style: solid;
+    border-left-color: aqua;
+    border-top-color: aquamarine;
+    border-right-color: lime;
+    border-bottom-color: aquamarine;
+    border-width: 4px;
+    
+   
+    
+}
+ 
+.breakSpace { 
+    border-radius: 4000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 280px;
+    width: 280px;
+    border-style: solid;
+    border-left-color: aqua;
+    border-top-color: aquamarine;
+    border-right-color: lime;
+    border-bottom-color: aquamarine;
+    border-width: 4px;
+    
+}
+
+#working {
+    padding-top: 35px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+#wTimeNumber {
+    padding-top: 26px;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    
+}
+
+#relaxing {
+    padding-top: 35px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+#bTimeNumber {
+    padding-top: 26px;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+#cdTime {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+#outputWTime {
+    display: inline;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: azure;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+#outputBTime {
+    display: inline;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: azure;
+    padding-left: 9px;
+    padding-right: 12px;
+}
+
+#startWTime {
+    background-color: black;
+    color: white;
+    border-radius: 200px;
+    font-weight: 600 !important;
+}
+
+#pauseWTime {
+    background-color: black;
+    border-radius: 200px;
+    color: white;
+    font-weight: 600 !important;
+}
+
+#clearWTime {
+    background-color: black;
+    color: white;
+    border-radius: 200px;
+    font-weight: 600 !important;
+}
+
+#minusWTime {
+    width: 100px;
+    color:white;
+    font-family: sans-serif;
+    font-weight: 600 !important;
+    background-color: black;
+    border-style: solid;
+    border-color:aqua;
+    border-radius: 400px;
+    
+    
+}
+
+#addWTime {
+    width: 100px;
+    color:white;
+    font-family: sans-serif;
+    font-weight: 600 !important;
+    background-color: black;
+    border-style: solid;
+    border-color:aqua;
+    border-radius: 400px;
+    
+}
+
+#minusBTime {
+    width: 100px;
+    color:white;
+    font-family: sans-serif;
+    font-weight: 600 !important;
+    background-color: black;
+    border-style: solid;
+    border-color:aqua;
+    border-radius: 400px;
+    
+}
+
+#addBTime {
+    width: 100px;
+    color:white;
+    font-family: sans-serif;
+    font-weight: 600 !important;
+    background-color: black;
+    border-style: solid;
+    border-color:aqua;
+    border-radius: 400px;
+}
+
+#design {
+    color: white;
+}
+
+#WT {
+    padding-bottom: 5px;
+}
+
+#BT {
+    padding-bottom: 10px;
+}
